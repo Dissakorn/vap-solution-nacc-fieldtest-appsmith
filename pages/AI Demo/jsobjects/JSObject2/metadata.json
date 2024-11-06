@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "66f5118e8bc3331e3fb1ae0a_30e0ef86-ddb4-40b0-9d1f-0800c5a57740",
+  "id": "AI Demo_JSObject2",
+  "unpublishedCollection": {
+    "name": "JSObject2",
+    "pageId": "AI Demo",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "startTime",
+        "value": "null"
+      },
+      {
+        "name": "elapsedTime",
+        "value": "0"
+      },
+      {
+        "name": "timerInterval",
+        "value": "null"
+      }
+    ]
+  }
+}

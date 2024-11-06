@@ -1,0 +1,50 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 48,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "1rem",
+  "fontStyle": "",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "0f6c5wrsum",
+  "leftColumn": 22,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 32,
+  "mobileLeftColumn": 22,
+  "mobileRightColumn": 38,
+  "mobileTopRow": 28,
+  "needsErrorInfo": false,
+  "overflow": "NONE",
+  "parentColumnSpace": 19.5,
+  "parentId": "guqvm7hcss",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 41,
+  "shouldTruncate": false,
+  "text": " เมื่อเข้าสู่แบบทดสอบ ท่านสามารถกดปุ่ม \"เริ่มใช้ AI\" เพื่อใช้ LLM ในการสรุป และจัดประเภทข้อกล่าวหา \n\nหลังจากนั้นผลการสรุปและจัดประเภทข้อกลาวหาจะปรากฏบนหน้าจอ ท่านสามารถแก้ไขผลได้ตามที่\nต้องการหลังจากนั้น กดปุ่ม \"ไปต่อ\" ไปหน้าสรุปผล",
+  "textAlign": "CENTER",
+  "textColor": "#231F20",
+  "topRow": 35,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "670xspvwxk",
+  "widgetName": "Txt_Name"
+}

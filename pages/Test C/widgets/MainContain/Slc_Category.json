@@ -1,0 +1,61 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 82,
+  "boxShadow": "none",
+  "defaultOptionValue": "",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "sourceData"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "isDisabled": false,
+  "isFilterable": false,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "psn3yf5scc",
+  "labelAlignment": "left",
+  "labelPosition": "Left",
+  "labelText": "",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 14,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 112,
+  "mobileLeftColumn": 2,
+  "mobileRightColumn": 22,
+  "mobileTopRow": 105,
+  "needsErrorInfo": false,
+  "optionLabel": "label",
+  "optionValue": "value",
+  "originalBottomRow": 97,
+  "originalTopRow": 93,
+  "parentColumnSpace": 19.5,
+  "parentId": "ch2nz9gqz5",
+  "parentRowSpace": 10,
+  "placeholderText": "โปรดเลือกผลการจำแนกประเภทข้อกล่าวหา",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 50,
+  "serverSideFiltering": false,
+  "sourceData": "[\n  {\n    \"label\": \"เรียกรับสินบน ให้/ขอให้ หรือรับว่าจะให้ทรัพย์สินหรือประโยชน์อื่นใดแก่เจ้าหน้าที่ของรัฐ\",\n    \"value\": \"เรียกรับสินบน ให้/ขอให้ หรือรับว่าจะให้ทรัพย์สินหรือประโยชน์อื่นใดแก่เจ้าหน้าที่ของรัฐ\"\n  },\n  {\n    \"label\": \"จัดซื้อจัดจ้าง\",\n    \"value\": \"จัดซื้อจัดจ้าง\"\n  },\n  {\n    \"label\": \"ยักยอก/เบียดบังเงินหรือทรัพย์สินของทางราชการ\",\n    \"value\": \"ยักยอก/เบียดบังเงินหรือทรัพย์สินของทางราชการ\"\n  },\n  {\n    \"label\": \"ออกเอกสารสิทธิ\",\n    \"value\": \"ออกเอกสารสิทธิ\"\n  },\n  {\n    \"label\": \"การบริหารงานบุคคล (การบรรจุ/แต่งตั้ง/เลื่อนตำแหน่ง/โยกย้าย/ลงโทษวินัย)\",\n    \"value\": \"การบริหารงานบุคคล (การบรรจุ/แต่งตั้ง/เลื่อนตำแหน่ง/โยกย้าย/ลงโทษวินัย)\"\n  },\n  {\n    \"label\": \"ทุจริตในการจัดทำงบประมาณ/โครงการ/เบิกจ่ายเงินในโครงการอันเป็นเท็จ\",\n    \"value\": \"ทุจริตในการจัดทำงบประมาณ/โครงการ/เบิกจ่ายเงินในโครงการอันเป็นเท็จ\"\n  },\n  {\n    \"label\": \"ปฏิบัติหรือละเว้นการปฏิบัติหน้าที่โดยมิชอบหรือโดยทุจริต\",\n    \"value\": \"ปฏิบัติหรือละเว้นการปฏิบัติหน้าที่โดยมิชอบหรือโดยทุจริต\"\n  },\n  {\n    \"label\": \"การขัดกันระหว่างประโยชน์ส่วนบุคคลและประโยชน์ส่วนรวม\",\n    \"value\": \"การขัดกันระหว่างประโยชน์ส่วนบุคคลและประโยชน์ส่วนรวม\"\n  },\n  {\n    \"label\": \"ร่ำรวยผิดปกติ\",\n    \"value\": \"ร่ำรวยผิดปกติ\"\n  },\n  {\n    \"label\": \"ฝ่าฝืนหรือไม่ปฏิบัติตามมาตรฐานทางจริยธรรมอย่างร้ายแรง\",\n    \"value\": \"ฝ่าฝืนหรือไม่ปฏิบัติตามมาตรฐานทางจริยธรรมอย่างร้ายแรง\"\n  },{\n    \"label\": \"1\",\n    \"value\": \"1\"\n  }\n]",
+  "topRow": 78,
+  "type": "SELECT_WIDGET",
+  "version": 1,
+  "widgetId": "1c9lxjm26q",
+  "widgetName": "Slc_Category"
+}

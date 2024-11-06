@@ -1,0 +1,82 @@
+{
+  "appIsExample": false,
+  "appLayout": {
+    "type": "DESKTOP"
+  },
+  "applicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
+    "navigationSetting": {},
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#ECECEC",
+  "evaluationVersion": 2,
+  "icon": "heart",
+  "pages": [
+    {
+      "id": "Landing Page",
+      "isDefault": true
+    },
+    {
+      "id": "Waiting Page",
+      "isDefault": false
+    },
+    {
+      "id": "Test A",
+      "isDefault": false
+    },
+    {
+      "id": "Waiting Page 1",
+      "isDefault": false
+    },
+    {
+      "id": "Test B",
+      "isDefault": false
+    },
+    {
+      "id": "Waiting Page 2",
+      "isDefault": false
+    },
+    {
+      "id": "Test C",
+      "isDefault": false
+    },
+    {
+      "id": "Waiting Page 3",
+      "isDefault": false
+    },
+    {
+      "id": "AI Demo",
+      "isDefault": false
+    },
+    {
+      "id": "Thank You",
+      "isDefault": false
+    },
+    {
+      "id": "End Page",
+      "isDefault": false
+    }
+  ],
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
+    "navigationSetting": {},
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  }
+}

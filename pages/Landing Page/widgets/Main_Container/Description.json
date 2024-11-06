@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 30,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "1rem",
+  "fontStyle": "",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "0f6c5wrsum",
+  "leftColumn": 16,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 17,
+  "mobileLeftColumn": 18,
+  "mobileRightColumn": 34,
+  "mobileTopRow": 13,
+  "needsErrorInfo": false,
+  "originalBottomRow": 30,
+  "originalTopRow": 11,
+  "overflow": "NONE",
+  "parentColumnSpace": 19.5,
+  "parentId": "7jh6ywyxcj",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 47,
+  "shouldTruncate": false,
+  "text": "การทดสอบนี้ถูกสร้างขึ้นเพื่อประเมินและทดสอบความสามารถของโมเดลภาษาขนาดใหญ่ (LLM) ในการทำงานเปรียบเทียบกับมนุษย์ โดยมุ่งเน้นไปที่การสรุปและจัดหมวดหมู่ข้อกล่าวหาต่างๆ ที่ซับซ้อน โดยจำลองกระบวนการสรุปและจัดหมวดหมู่ข้อกล่าวหาของสำนักงานคณะกรรมการป้องกันและปราบปรามการทุจริตแห่งชาติ (ป.ป.ช.) การทดสอบนี้มีจุดประสงค์เพื่อสำรวจว่าการนำ LLM มาใช้นั้นจะสามารถช่วยให้กระบวนการทำงาน สรุปและจัดหมวดหมู่ข้อกล่าวหาทำได้รวดเร็วขึ้น แม่นยำมากขึ้น และลดความผิดพลาดจากมนุษย์ได้หรือไม่ \n\nโดยข้อมูลที่ได้มาจะไม่ถูกนำไปวัดผลกาดำเนินงานของผู้เข้าร่วมแต่อย่างใด",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 11,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "alv4t79mel",
+  "widgetName": "Description"
+}

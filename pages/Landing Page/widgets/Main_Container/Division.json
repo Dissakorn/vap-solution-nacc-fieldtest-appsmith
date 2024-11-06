@@ -1,0 +1,61 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 59,
+  "boxShadow": "none",
+  "defaultOptionValue": "",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "sourceData"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "isDisabled": false,
+  "isFilterable": true,
+  "isLoading": false,
+  "isRequired": true,
+  "isVisible": true,
+  "key": "cz7nc8jo1s",
+  "labelAlignment": "left",
+  "labelPosition": "Left",
+  "labelText": "สำนัก",
+  "labelTextSize": "0.875rem",
+  "labelWidth": "3",
+  "leftColumn": 21,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 54,
+  "mobileLeftColumn": 21,
+  "mobileRightColumn": 41,
+  "mobileTopRow": 47,
+  "needsErrorInfo": false,
+  "optionLabel": "label",
+  "optionValue": "value",
+  "originalBottomRow": 58,
+  "originalTopRow": 54,
+  "parentColumnSpace": 19.5,
+  "parentId": "7jh6ywyxcj",
+  "parentRowSpace": 10,
+  "placeholderText": "เลือกสำนักที่คุณสังกัด",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 41,
+  "serverSideFiltering": false,
+  "sourceData": "[\n  {\n    \"label\": \"สำนักงาน ป.ป.ช. ส่วนกลาง\",\n    \"value\": \"สำนักงาน ป.ป.ช. ส่วนกลาง\"\n  },\n  {\n    \"label\": \"สำนักงาน ป.ป.ช. ภาค 2\",\n    \"value\": \"สำนักงาน ป.ป.ช. ภาค 2\"\n  },\n  {\n    \"label\": \"สำนักงาน ป.ป.ช. ภาค 4\",\n    \"value\": \"สำนักงาน ป.ป.ช. ภาค 4\"\n  },\n  {\n    \"label\": \"สำนักงาน ป.ป.ช. ภาค 5\",\n    \"value\": \"สำนักงาน ป.ป.ช. ภาค 5\"\n  },\n  {\n    \"label\": \"สำนักงาน ป.ป.ช. ภาค 8\",\n    \"value\": \"สำนักงาน ป.ป.ช. ภาค 8\"\n  },\n  {\n    \"label\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดเชียงใหม่\",\n    \"value\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดเชียงใหม่\"\n  },\n  {\n    \"label\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดลำพูน\",\n    \"value\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดลำพูน\"\n  },\n  {\n    \"label\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดขอนแก่น\",\n    \"value\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดขอนแก่น\"\n  },\n  {\n    \"label\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดมหาสารคาม\",\n    \"value\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดมหาสารคาม\"\n  },\n  {\n    \"label\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดฉะเชิงเทรา\",\n    \"value\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดฉะเชิงเทรา\"\n  },\n  {\n    \"label\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดชลบุรี\",\n    \"value\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดชลบุรี\"\n  },\n  {\n    \"label\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดระยอง\",\n    \"value\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดระยอง\"\n  },\n  {\n    \"label\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดนครศรีธรรมราช\",\n    \"value\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดนครศรีธรรมราช\"\n  },\n  {\n    \"label\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดสุราษฎร์ธานี\",\n    \"value\": \"สำนักงาน ป.ป.ช. ประจำจังหวัดสุราษฎร์ธานี\"\n  }\n]\n",
+  "topRow": 55,
+  "type": "SELECT_WIDGET",
+  "version": 1,
+  "widgetId": "bxokcx1qez",
+  "widgetName": "Division"
+}

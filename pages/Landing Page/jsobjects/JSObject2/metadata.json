@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "66f5118e8bc3331e3fb1ae0a_f21433ba-4b4b-4d75-b653-96c420a9da69",
+  "id": "Landing Page_JSObject2",
+  "unpublishedCollection": {
+    "name": "JSObject2",
+    "pageId": "Landing Page",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

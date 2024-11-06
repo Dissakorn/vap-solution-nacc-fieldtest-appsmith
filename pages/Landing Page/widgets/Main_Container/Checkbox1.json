@@ -1,0 +1,47 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "alignWidget": "LEFT",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 54,
+  "defaultCheckedState": true,
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
+  "isDisabled": false,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "ceta184hew",
+  "label": "ฉันเข้าใจ และยืนยันการทำแบบทดสอบ",
+  "labelPosition": "Right",
+  "leftColumn": 24,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 64,
+  "mobileLeftColumn": 6,
+  "mobileRightColumn": 18,
+  "mobileTopRow": 60,
+  "needsErrorInfo": false,
+  "originalBottomRow": 53,
+  "originalTopRow": 49,
+  "parentColumnSpace": 19.5,
+  "parentId": "7jh6ywyxcj",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 43,
+  "topRow": 50,
+  "type": "CHECKBOX_WIDGET",
+  "version": 1,
+  "widgetId": "97debaz3f3",
+  "widgetName": "Checkbox1"
+}

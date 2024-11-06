@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 49,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "1rem",
+  "fontStyle": "",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "0f6c5wrsum",
+  "leftColumn": 16,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 17,
+  "mobileLeftColumn": 18,
+  "mobileRightColumn": 34,
+  "mobileTopRow": 13,
+  "needsErrorInfo": false,
+  "originalBottomRow": 48,
+  "originalTopRow": 31,
+  "overflow": "NONE",
+  "parentColumnSpace": 19.5,
+  "parentId": "7jh6ywyxcj",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 47,
+  "shouldTruncate": false,
+  "text": "แบบทดสอบประกอบไปด้วยการสรุปและจำแนกประเภทข้อกล่าวหา 4 ข้อ โดยจะมีการจับเวลา เริ่มขึ้นเมื่อท่านกดเริ่มทำแบบทดสอบในแต่ละครั้ง\n\nส่วนที่ 1: ใน3 ข้อแรก ให้ท่านอ่านข้อกล่าวหาและเขียนสรุปลงในกล่องข้อความที่อยู่บนหน้าจอจากนั้นกดยืนยันเพื่อหยุดนาฬิกา\n\nส่วนที่ 2: การทดสอบโดย AI ให้ท่านกดปุ่มสรุปผลและจัดประเภทการทุจริต แล้วปรับแต่งตามที่ท่านต้องการ จากนั้นกดยืนยันเพื่อหยุดนาฬิกา",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 32,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "tpp96aprav",
+  "widgetName": "Rules"
+}

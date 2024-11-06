@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "66f5118e8bc3331e3fb1ae0a_cafcc6da-e91e-4777-8c32-a1d943715c20",
+  "id": "Test B_JSObject2",
+  "unpublishedCollection": {
+    "name": "JSObject2",
+    "pageId": "Test B",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "startTime",
+        "value": "null"
+      },
+      {
+        "name": "elapsedTime",
+        "value": "0"
+      },
+      {
+        "name": "timerInterval",
+        "value": "null"
+      }
+    ]
+  }
+}
