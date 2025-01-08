@@ -29,7 +29,7 @@
           "data": ""
         },
         "rowObjects": {
-          "data": "{{\n  {\n\t\tAccuracy: Rt_Accuracy.value,\n    Speed: Rt_Speed.value,\n\t\tUser_Friendliness: Rt_UF.value, \n    rowIndex: appsmith.store.index\n  }\n}}"
+          "data": "{{\n  {\n\t\tAccuracy: Rt_Accuracy.value,\n    Speed: Rt_Speed.value,\n\t\tUser_Friendliness: Rt_UF.value, \n\t\tFeedback: Inp_Comment.text,\n    rowIndex: appsmith.store.index\n  }\n}}"
         },
         "sheetName": {
           "data": "log"
