@@ -11,9 +11,6 @@
     },
     {
       "key": "borderRadius"
-    },
-    {
-      "key": "textColor"
     }
   ],
   "dynamicHeight": "FIXED",
@@ -43,7 +40,7 @@
   "shouldTruncate": false,
   "text": "สิ้นสุดแบบทดสอบ\n\nขอบคุณในความร่วมมือของท่าน",
   "textAlign": "CENTER",
-  "textColor": "{{appsmith.theme.colors.primaryColor}}",
+  "textColor": "#18181b",
   "topRow": 25,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
