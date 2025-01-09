@@ -39,7 +39,7 @@ export default {
         formattedResult += `สถานที่: ${result.result.Location}\n`;
       }
       if (result.result.Amount) {
-        formattedResult += `มูลค่าความเสียหาย: ${result.result.Amount}`;
+        formattedResult += `มูลค่าของโครงการ: ${result.result.Amount}`;
       }
 
       // Update the result text box widget
