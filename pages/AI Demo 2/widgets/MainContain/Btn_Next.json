@@ -36,7 +36,7 @@
   "mobileRightColumn": 47,
   "mobileTopRow": 56,
   "needsErrorInfo": false,
-  "onClick": "{{JSObject2.stopStopwatch();\nUpdate.run().then(() => {\n  navigateTo('AI Demo 2', {}, 'SAME_WINDOW');\n});}}",
+  "onClick": "{{JSObject2.stopStopwatch();\nUpdate.run().then(() => {\n  navigateTo('Thank You', {}, 'SAME_WINDOW');\n});}}",
   "originalBottomRow": 106,
   "originalTopRow": 102,
   "parentColumnSpace": 19.5,

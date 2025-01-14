@@ -36,7 +36,7 @@
   "mobileRightColumn": 38,
   "mobileTopRow": 59,
   "needsErrorInfo": false,
-  "onClick": "{{JSObject2.storeIndex();\nnavigateTo('Waiting Page', {}, 'SAME_WINDOW');}}",
+  "onClick": "{{JSObject2.storingdivision();\nnavigateTo('Waiting Page', {}, 'SAME_WINDOW');}}",
   "originalBottomRow": 63,
   "originalTopRow": 59,
   "parentColumnSpace": 19.5,
