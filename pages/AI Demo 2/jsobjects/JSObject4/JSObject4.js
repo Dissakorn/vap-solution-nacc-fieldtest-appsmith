@@ -9,7 +9,7 @@ export default {
     await this.sleep(2000);  // Sleep for 2000 ms (2 seconds)
 
     // Get the text from the input widget
-    const textData = Inp_Accusation.text;  // Replace Inp_Textbox with your text box widget name
+    const textData = Input1.text;  // Replace Inp_Textbox with your text box widget name
 
     // Define your API endpoint
     const apiEndpoint = 'https://6gzwkq3j6kzapmic7bjokysf7m0hftpj.lambda-url.ap-southeast-1.on.aws/';  // Add your API endpoint here

@@ -1,7 +1,7 @@
 export default {
   async classifyText() {
     // Get the text from the input widget
-    const textData = Inp_Accusation.text;  // Replace Inp_Textbox with your input widget name
+    const textData = Input1.text;  // Replace Inp_Textbox with your input widget name
 
     // Define your API endpoint
     const apiEndpoint = 'https://lr26qwqqso5cdoz2qrwe4575ke0ktiqp.lambda-url.ap-southeast-1.on.aws/';  // Add your API endpoint here

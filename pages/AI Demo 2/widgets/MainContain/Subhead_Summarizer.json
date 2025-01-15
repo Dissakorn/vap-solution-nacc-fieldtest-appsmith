@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 57,
+  "bottomRow": 58,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -30,8 +30,8 @@
   "mobileRightColumn": 17,
   "mobileTopRow": 2,
   "needsErrorInfo": false,
-  "originalBottomRow": 65,
-  "originalTopRow": 61,
+  "originalBottomRow": 57,
+  "originalTopRow": 53,
   "overflow": "NONE",
   "parentColumnSpace": 19.5,
   "parentId": "ch2nz9gqz5",
@@ -43,7 +43,7 @@
   "text": "สรุปประเด็นสำคัญของข้อกล่าวหา",
   "textAlign": "LEFT",
   "textColor": "#231F20",
-  "topRow": 53,
+  "topRow": 54,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
